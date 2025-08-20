@@ -1,0 +1,28 @@
+{
+  "name": "lumina-core-starter",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "hardhat compile",
+    "clean": "hardhat clean",
+    "test": "hardhat test",
+    "deploy:base-sepolia": "hardhat run scripts/deploy.ts --network base_sepolia",
+    "deploy:base": "hardhat run scripts/deploy.ts --network base",
+    "verify:base-sepolia": "hardhat run scripts/verify.ts --network base_sepolia",
+    "verify:base": "hardhat run scripts/verify.ts --network base",
+    "ops": "hardhat run scripts/ops.ts --network base_sepolia"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.1.1",
+    "@openzeppelin/contracts": "^5.4.0",
+    "@types/node": "^24.2.1",
+    "dotenv": "^16.6.1",
+    "hardhat": "^2.26.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}

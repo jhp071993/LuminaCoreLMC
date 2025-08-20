@@ -1,0 +1,13 @@
+{
+  "address": "0x21583587498d054aCE7e4de41cE74BD69b61Ab0A",
+  "constructorArgs": [
+    "Lumina Core",
+    "LMC",
+    "100000000000000000000000000",
+    "1000000000000000000000000000",
+    "0x3A8a8b6d69cA0f07BC641bAc587eb41e2A553402"
+  ],
+  "network": "base",
+  "chainId": "8453",
+  "timestamp": "2025-08-12T23:49:50.042Z"
+}

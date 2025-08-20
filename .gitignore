@@ -1,0 +1,30 @@
+# Environment
+.env
+.env.*
+
+# Node
+node_modules/
+
+# Hardhat
+cache/
+artifacts/
+
+# Typechain
+typechain-types/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug files
+webapp-debug/
+
+# Test and temporary files
+bytecode.txt
+creation.txt
+UniqueToken_flat.sol

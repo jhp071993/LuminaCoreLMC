@@ -1,0 +1,13 @@
+{
+  "address": "0xD3b0CBb1c2B6723a938a6db9184619DB16cF8E54",
+  "constructorArgs": [
+    "Lumina Core",
+    "LMC",
+    "100000000000000000000000000",
+    "1000000000000000000000000000",
+    "0x2B1dA93cce8c8Bc7E62B69F993Bd8BF4254990ca"
+  ],
+  "network": "base_sepolia",
+  "chainId": "84532",
+  "timestamp": "2025-08-11T06:25:19.380Z"
+}

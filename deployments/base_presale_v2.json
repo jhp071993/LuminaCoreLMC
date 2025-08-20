@@ -1,0 +1,30 @@
+{
+  "address": "0xB6fb2aEe7009cDD1a36d84225Fbd76e345eC2acd",
+  "constructorArgs": [
+    "0x21583587498d054aCE7e4de41cE74BD69b61Ab0A",
+    "0x3A8a8b6d69cA0f07BC641bAc587eb41e2A553402",
+    "1755246518",
+    "1757837618",
+    "100000",
+    "75000000000000000000",
+    "250000000000000000000",
+    "10000000000000000",
+    "5000000000000000000",
+    500
+  ],
+  "config": {
+    "TOKENS_FOR_PRESALE": "25000000",
+    "RATE_TOKENS_PER_ETH": "100000",
+    "SOFT_CAP_ETH": "75.0",
+    "HARD_CAP_ETH": "250.0",
+    "MIN_CONTRIB_ETH": "0.01",
+    "MAX_CONTRIB_ETH": "5.0",
+    "SKIM_BPS": 500,
+    "DURATION_DAYS": 30
+  },
+  "network": "base",
+  "chainId": "8453",
+  "timestamp": "2025-08-15T21:50:20.628Z",
+  "contract": "LuminaCorePresaleV2_Skim",
+  "verified": true
+}
