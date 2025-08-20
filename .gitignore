@@ -31,3 +31,8 @@ UniqueToken_flat.sol
 
 # Testing scripts
 testing_scripts/
+
+# Old/deprecated deployment scripts
+scripts/deploy.ts
+scripts/deploy_presale_v2_skim.ts
+scripts/verify.ts
