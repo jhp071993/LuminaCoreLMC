@@ -28,3 +28,6 @@ webapp-debug/
 bytecode.txt
 creation.txt
 UniqueToken_flat.sol
+
+# Testing scripts
+testing_scripts/
